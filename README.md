@@ -2,9 +2,21 @@
 
 A library to colorify and beautify console log messages.
 
-## Basic Usage
+## Installation
 
-This library exports a class which provides methods to log messages of different severity level on the browser console.
+This package can be installed using npm or yarn.
+
+```bash
+npm install logs-colorify-package;
+
+#OR
+
+yarn add logs-colorify-package;
+```
+
+## Usage
+
+This library can be used to log messages of different severity levels on the browser console.
 
 ```javascript
 import { Log } from 'logs-colorify-package';
