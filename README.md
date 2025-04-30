@@ -1,12 +1,10 @@
 # logs-colorify-package
 
-## Description
-
 A library to colorify and beautify console log messages.
 
 ## Basic Usage
 
-This library exports a class which provides methods to log messages of different severity on the browser console.
+This library exports a class which provides methods to log messages of different severity level on the browser console.
 
 ```javascript
 import { Log } from 'logs-colorify-package';
