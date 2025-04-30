@@ -1,7 +1,7 @@
 {
-  "name": "logs-colorify",
+  "name": "logs-colorify-package",
   "version": "1.0.0",
-  "description": "A library to colorify console logs",
+  "description": "A library to colorify and beautify console logs",
   "homepage": "https://github.com/purwar1997/logs-colorify#readme",
   "bugs": {
     "url": "https://github.com/purwar1997/logs-colorify/issues"
