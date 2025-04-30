@@ -1,0 +1,28 @@
+{
+  "name": "logs-colorify",
+  "version": "1.0.0",
+  "description": "A library to colorify console logs",
+  "homepage": "https://github.com/purwar1997/logs-colorify#readme",
+  "bugs": {
+    "url": "https://github.com/purwar1997/logs-colorify/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purwar1997/logs-colorify.git"
+  },
+  "license": "MIT",
+  "author": "Shubham Purwar",
+  "type": "commonjs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "rm -rf lib && tsc",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "files": [
+    "./lib/**/*"
+  ]
+}
